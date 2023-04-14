@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    column-count: 3;
+    column-rule: 6px double #ff0000;
+    column-gap: 5rem;
+}
